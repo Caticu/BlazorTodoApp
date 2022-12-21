@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{E480EAAF-3BA3-4DD1-B6B4-3C28EEA96947}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blazor", "Blazor\Blazor.csproj", "{E4DA8705-C133-4BE2-8FD4-F1A983FC029D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4DA8705-C133-4BE2-8FD4-F1A983FC029D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4DA8705-C133-4BE2-8FD4-F1A983FC029D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4DA8705-C133-4BE2-8FD4-F1A983FC029D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4DA8705-C133-4BE2-8FD4-F1A983FC029D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
